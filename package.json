@@ -2,13 +2,13 @@
   "name": "boilerplate-express-mvc",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
-    "build": "node app.js",
-    "start": "nodemon app.js",
+    "build": "node index.js",
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
